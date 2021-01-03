@@ -3,7 +3,7 @@
 - Ký tự đặc biệt Unicode Minecraft:Bedrock Edition
 
 
-## How to use / Cách Sử Dụng
+## How to use: / Cách sử dụng:
 - Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
 - Sao chép ký tự unicode và dán vào Minecraft: Bedrock Edition cuộc trò chuyện, cái bảng, tiêu đề, v.v.
 
