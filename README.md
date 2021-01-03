@@ -2,9 +2,6 @@
 - Minecraft:Bedrock Edition Unicode characters
 - Ký tự đặc biệt Unicode Minecraft:Bedrock Edition
 
-|             U225                   |     All      |          |  -      |![hydra_trophy](https://user-images.githubusercontent.com/12781303/101279663-41c76080-37f6-11eb-8cca-1ca724f7e4fd.png)|
-
-
 ## How to use / Cách sử dụng
 - Copy the unicode character and paste it into Minecraft: Bedrock Edition chats, signs, titles etc.
 - Sao chép ký tự unicode và dán vào Minecraft: Bedrock Edition cuộc trò chuyện, cái bảng, tiêu đề, v.v.
