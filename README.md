@@ -11,9 +11,9 @@
 - Minecraft uses resource packs to assign characters (glyphs) to different unicode values, which is how the game allows you to type in chat and write on signs etc. Because fonts are just textures in a resource pack, it also allows the game to add "emojis" which have their own unicode values assign to them just like letters.
 - Minecraft sử dụng các gói tài nguyên để gán các ký tự (glyphs) cho các giá trị unicode khác nhau, đó là cách trò chơi cho phép bạn nhập trò chuyện và viết trên các dấu hiệu, v.v. Vì phông chữ chỉ là kết cấu trong gói tài nguyên nên nó cũng cho phép trò chơi thêm "biểu tượng cảm xúc"có các giá trị unicode riêng được gán cho chúng giống như các chữ cái.
 
-## List of all characters
+## List of all characters: / Danh sách tất cả các ký tự đặc biệt:
 
-|               Name               |   Platform   | Character | Unicode |                     In game                    |
+|            Name / Tên            |   Platform   | Character | Unicode |            In game / Trong trò chơi            |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             A Button             |     X-Box    |          |  U+E000 |            ![](./images/xbox-a.png)            |
 |             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
