@@ -7,9 +7,9 @@
 - Minecraft sử dụng các gói tài nguyên để gán các ký tự (glyphs) cho các giá trị unicode khác nhau, đó là cách trò chơi cho phép bạn nhập trò chuyện và viết trên các dấu hiệu, v.v. Vì phông chữ chỉ là kết cấu trong gói tài nguyên nên nó cũng cho phép trò chơi thêm "biểu tượng cảm xúc"có các giá trị unicode riêng được gán cho chúng giống như các chữ cái.
 
 
-# Danh sách tất cả các ký tự đặc biệt
+# Danh sách tất cả các ký tự đặc biệt:
 
-|            Name / Tên            |   Platform   | Character | Unicode |            In game / Trong trò chơi            |
+|            Tên ký tự             |   Nền tảng   | Character | Unicode |                 Trong trò chơi                 |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             A Button             |     X-Box    |          |  U+E000 |            ![](./images/xbox-a.png)            |
 |             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
