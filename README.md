@@ -9,7 +9,7 @@
 
 # Danh sách tất cả các ký tự đặc biệt:
 
-|            Tên ký tự             |   Nền tảng   | Ký tự | Unicode |                 Trong trò chơi                 |
+|            Tên ký tự             |   Nền tảng   |   Ký tự   | Unicode |                 Trong trò chơi                 |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             A Button             |     X-Box    |          |  U+E000 |            ![](./images/xbox-a.png)            |
 |             B Button             |     X-Box    |          |  U+E001 |            ![](./images/xbox-b.png)            |
